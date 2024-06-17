@@ -6,13 +6,15 @@
 
 ## Instrucciones
 
-### Parte 1. 
+Si llega a haber un error de conexión, puede ser debido a que se actualizo la base de datos, por favor contactar a Vicente.garay@uc.cl para activarla nuevamente.
 
-Pequeño grafo de ejemplo para construir una RDD de prueba: 
+Análisis de grafos mediante PySpark. 
+El código incluye los pasos para configurar el entorno, cargar los datos, aplicar funciones de mapeo y reduce, para luego detectar triángulos en el grafo. 
 
-[(1,11,2),(1,11,3),(2,11,3),(3,11,2),(3,11,4),(4,11,1),(4,11,2),(4,11,3),(4,12,5),(5,12,1),(5,12,2),(5,12,6)]
+Para llevar la tarea a cabo se utilizan las siguientes librerías 
 
-Consultas para probar: 
-- (x,11,y), (y,11,z), (z,11,x) (triángulo)
-- (x,11,y), (y,11,z), (z,11,w), (w,11,x) (cuadrado)
-- (x,11,y), (y,11,z), (z,12,w), (w,12,x) (cuadrado)
+Para ejecutar este notebook, necesitarás tener instalado lo siguiente:
+*   PySpark
+*   Neo4j
+*   Pandas
+
