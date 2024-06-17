@@ -1,4 +1,12 @@
-Tarea 02. 
+# Tarea 02 - Procesamiento de Datos Masivos
+
+## Integrantes
+- Vicente Garay 
+- Luna Garcés 
+
+## Instrucciones
+
+### Parte 1. 
 
 Pequeño grafo de ejemplo para construir una RDD de prueba: 
 
