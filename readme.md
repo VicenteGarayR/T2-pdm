@@ -1,5 +1,10 @@
 # Tarea 02 - Procesamiento de Datos Masivos
 
+> Para ejecutar este notebook, necesitarás tener instalado lo siguiente:
+> *   PySpark
+> *   Neo4j
+> *   Pandas
+
 ## Integrantes
 - Vicente Garay 
 - Luna Garcés 
@@ -9,10 +14,6 @@
 > [!NOTE]
 > Si llega a haber un error de conexión, puede ser debido a que se actualizo la base de datos, por favor contactar a Vicente.garay@uc.cl para activarla nuevamente.
 
-> Para ejecutar este notebook, necesitarás tener instalado lo siguiente:
-> *   PySpark
-> *   Neo4j
-> *   Pandas
 
 ### Parte 1
 
