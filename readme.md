@@ -5,10 +5,6 @@
 > *   Neo4j
 > *   Pandas
 
-## Integrantes
-- Vicente Garay 
-- Luna Garcés 
-
 ## Instrucciones
 
 > [!NOTE]
@@ -45,5 +41,8 @@ Esta base de datos contiene información sobre los vuelos entre aeropuertos en E
 Se trata de un grafo direccionado y los pesos significan la cantidad de vuelos entre dos aeropuertos.
 
 
-
 [Video Explicativo](https://www.youtube.com/watch?v=j3TUMa_xE0I)
+
+## Integrantes
+- Vicente Garay 
+- Luna Garcés 
