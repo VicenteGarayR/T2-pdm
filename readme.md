@@ -27,7 +27,7 @@ Para llevar la tarea a cabo se utilizan las siguientes librerías
 
 ### Referencia
 
-@MISC{konect:2017:opsahl-usairport,
+    @MISC{konect:2017:opsahl-usairport,
 
     title = {US airports network dataset -- {KONECT}},
 
@@ -36,7 +36,7 @@ Para llevar la tarea a cabo se utilizan las siguientes librerías
     year = {2017},
 
     url = {http://konect.cc/networks/opsahl-usairport}
-}
+    }
 
 
 Esta base de datos contiene información sobre los vuelos entre aeropuertos en Estados Unidos. 
