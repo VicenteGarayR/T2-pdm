@@ -25,9 +25,8 @@ Para llevar la tarea a cabo se utilizan las siguientes librerías
 
 ### Parte 2
 
-Se utilizó la siguente base de datos 
-    
-    ```
+### Referencia
+
 @MISC{konect:2017:opsahl-usairport,
     title = {US airports network dataset -- {KONECT}},
     month = oct,
@@ -35,7 +34,6 @@ Se utilizó la siguente base de datos
     url = {http://konect.cc/networks/opsahl-usairport}
 }
 
-```
 
 Esta base de datos contiene información sobre los vuelos entre aeropuertos en Estados Unidos. 
 Se trata de un grafo direccionado y los pesos significan la cantidad de vuelos entre dos aeropuertos.
